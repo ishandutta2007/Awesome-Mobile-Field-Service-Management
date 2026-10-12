@@ -26,7 +26,7 @@
     </filter>
   </defs>
 
-  <style>
+  <style><![CDATA[
     .bg { fill: url(#bg-grad); }
     .grid { stroke: rgba(255, 255, 255, 0.04); stroke-width: 1; }
     .title {
@@ -49,7 +49,7 @@
       fill: #38bdf8;
     }
     
-    /* Dynamic pulsing & floating background elements safely behind text */
+    /* Dynamic pulsing and floating background elements safely behind text */
     @keyframes pulseOrb {
       0%, 100% { transform: scale(1); opacity: 0.25; }
       50% { transform: scale(1.15); opacity: 0.45; }
@@ -78,7 +78,7 @@
       stroke-dasharray: 6 6;
       animation: dashCycle 2s linear infinite;
     }
-  </style>
+  ]]></style>
 
   <!-- Background Base -->
   <rect width="1200" height="360" rx="16" class="bg" />
@@ -151,7 +151,7 @@
       Awesome Mobile Field Service
     </text>
     <text x="0" y="195" class="title" fill="url(#primary-grad)">
-      Management (FSM) 🛠️
+      Management (FSM)
     </text>
 
     <!-- Subtitle -->
