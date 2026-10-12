@@ -59,7 +59,7 @@ The following table summarizes industry-leading commercial FSM software, ranked 
 
 ## 💻 Open-Source Projects
 
-Self-hosted and developer-friendly solutions for full data sovereignty, zero per-seat licensing fees, and bespoke technician workflows. Sorted by GitHub Stars_Count (descending):
+Self-hosted and developer-friendly solutions for full data sovereignty, zero per-seat licensing fees, and bespoke technician workflows. Sorted by GitHub_Stars_Count (descending):
 
 | Repository | GitHub_Stars | Core Stack | Description |
 | :--- | :--- | :--- | :--- |
